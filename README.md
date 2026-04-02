@@ -62,7 +62,7 @@ project/
 1. Clone the repository
 
 ```bash id="fig456"
-git clone https://github.com/Arko-009/your-repo-name.git
+git clone https://github.com/Arko-009/Task-Clone1.git
 ```
 
 2. Open the folder
