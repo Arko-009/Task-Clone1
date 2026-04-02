@@ -7,8 +7,8 @@ This project focuses on delivering a **pixel-perfect UI**, **fully responsive la
 ## Live ✅ https://arko-009.github.io/Task-Clone1/
 ## 🖼️ Preview
 
-![Desktop View](./screenshots/desktop.png)
-![Mobile View](./screenshots/mobile.png)
+![Desktop View](./screenshots/img1.png)
+![Mobile View](./screenshots/img2.png)
 
 ---
 
