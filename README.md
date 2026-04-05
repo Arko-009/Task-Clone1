@@ -4,7 +4,7 @@ A professional front-end implementation of a Figma design, developed as part of 
 This project focuses on delivering a **pixel-perfect UI**, **fully responsive layout**, and **smooth interactive animations**.
 
 ---
-## Live ✅ https://arko-009.github.io/Task-Clone1/
+## Live ✅ https://ws-task1.netlify.app/
 ## 🖼️ Preview
 
 ![Desktop View](./screenshots/img1.png)
